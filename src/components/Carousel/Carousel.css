@@ -1,0 +1,26 @@
+.carouselInner{
+    height: 65vh;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    background-blend-mode:darken;
+}
+.carouselCaption{
+    top: 55%;
+    transform: translateY(-55%);
+    bottom: 3rem;
+    z-index: 10;
+    color: white;
+}
+.swiper-button-next { 
+    color: red; 
+}
+.captionHeader{
+    font-weight: bold;
+}
+.discountClass{
+    font-size: .8rem;
+}

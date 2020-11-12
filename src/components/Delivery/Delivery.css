@@ -1,0 +1,15 @@
+.black-box{
+    background: black;
+    /* height: 10rem; */
+    color: #fff;
+    padding: 2rem;
+    margin-top: 0;
+  }
+  .black-box-text{
+    color: white;
+    font-size: 1rem;
+    /* margin-top: 1rem; */
+  }
+  .delivery-col{
+      margin-bottom: 2rem;
+  }

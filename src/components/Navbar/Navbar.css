@@ -1,0 +1,30 @@
+.navBar{
+    background: #9ACD32;
+}
+.navBarCollapse{
+    text-align: center;
+}
+.fa{
+    color: white;
+}
+.icons{
+    margin-right: 2rem;
+}
+.icons:hover{
+    color: blue;
+}
+.navBrand{
+    margin-left: 2rem;
+}
+.navButton{
+    background: white;
+    color: black;
+}
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 991px) {
+    .navButton{
+        width: 50%;
+        margin: auto;
+    }
+}

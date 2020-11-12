@@ -1,0 +1,27 @@
+.section-header {
+    margin-top: 1rem;
+  }
+  .category-anchor:hover{
+    text-decoration: none;
+  
+  }
+  .category-item {
+    color: #fff;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 1rem; 
+  }
+  
+  .category-item div img{
+    margin: 0;
+  }
+  .category-heading {
+    background: #9ACD32;
+    vertical-align: middle;
+    text-align: left;
+  }
+  .category-heading h1 {
+    margin-left: 1rem;
+  }
+  
+  
